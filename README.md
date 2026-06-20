@@ -32,9 +32,13 @@ Credit card fraud has become a major challenge in the financial sector. This pro
 
 Main Google Colab notebook containing data preprocessing, exploratory data analysis, model training, and evaluation.
 
-### archive.zip
+### credit_card_fraud_dectection.py
+Python implementation of the fraud detection model.
 
-Dataset used for training and testing the fraud detection model.
+### Dataset Information
+The Credit Card Fraud Detection dataset was used during project development and testing in Google Colab.
+
+
 
 ## Methodology
 
