@@ -65,3 +65,4 @@ This project highlights the effectiveness of machine learning techniques in dete
 * Deep learning-based fraud prediction
 * Cloud deployment for scalable monitoring
 * Project Status: In Progress
+* Data quality plays a key role in fraud detection accuracy
