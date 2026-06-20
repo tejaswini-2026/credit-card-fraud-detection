@@ -64,3 +64,4 @@ This project highlights the effectiveness of machine learning techniques in dete
 * Advanced machine learning algorithms
 * Deep learning-based fraud prediction
 * Cloud deployment for scalable monitoring
+* Project Status: In Progress
